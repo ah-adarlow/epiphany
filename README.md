@@ -1,2 +1,2 @@
 # epiphany
-Just testing. Can I push?
+Just testing GCM.
